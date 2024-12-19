@@ -1,4 +1,4 @@
-![Moody Mockup](https://github.com/yektaokdan/Blink/blob/main/image_for_readme/moody_mockup.png?raw=true)
+![Moody Mockup](https://github.com/yektaokdan/Moody/blob/main/image_for_readme/moody_mockup.png?raw=true)
 # Moody - Mood & Cycle Tracking App
 
 Moody is an iOS application designed to help users track their daily moods and menstrual cycles. Built with SwiftUI, it provides an intuitive and user-friendly interface for recording and monitoring emotional states and cycle-related information.
