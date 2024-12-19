@@ -1,0 +1,31 @@
+// ContentView
+"Daily" = "Günlük";
+"Calendar" = "Takvim";
+"Add Note" = "Not Ekle";
+"Cycle Record" = "Döngü Kaydı";
+"Moody" = "Moody";
+
+// NoteInputView
+"How do you feel today?" = "Bugün nasıl hissediyorsun?";
+"Add Note" = "Not Ekle";
+"Cancel" = "İptal";
+"Save" = "Kaydet";
+
+// CycleInputView
+"Date" = "Tarih";
+"Select Date" = "Tarih Seçin";
+"Flow" = "Adet Akışı";
+"Flow Intensity" = "Akış Yoğunluğu";
+"Symptoms" = "Belirtiler";
+"Notes" = "Notlar";
+"Add your notes..." = "Eklemek istediğiniz notlar...";
+"Cycle Record" = "Döngü Kaydı";
+
+// AddNoteButton
+"Add your note" = "Notunu Ekle"; 
+
+// Delete Alert
+"Delete" = "Sil";
+"Cancel" = "İptal";
+"Delete Entry" = "Kaydı Sil";
+"Are you sure you want to delete this entry?" = "Bu kaydı silmek istediğinizden emin misiniz?";
